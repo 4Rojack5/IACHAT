@@ -1,0 +1,11 @@
+{"content" : [
+        {"tag" : "greeting",
+            "patterns" : ["hola", "un saludo", "buenas", "hello"],
+            "answers"  : ["Hola que tal!","Como te va?","Un gusto de conocerte"]
+        },
+        {"tag" : "farewell",
+            "patterns" : ["adios","hasta la proxima","nos vemos","gracias","gracias!"],
+            "answers"  : ["Cuidate","Un gusto Ayudarte","Nos vemos pronto!"]
+        }
+    ]
+}
